@@ -8,6 +8,6 @@ const config = {
   onInit(Vue, router, store) { }
 };
 
-exportMicro(require('./package.json').name, config)
+exportMicro(config)
 
 // export default config;
