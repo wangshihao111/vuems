@@ -1,7 +1,6 @@
-
 {
   "name": "@vuems/core",
-  "version": "0.1.0",
+  "version": "0.0.1-alpha.0",
   "main": "lib/index.js",
   "license": "MIT",
   "private": false,
@@ -16,8 +15,7 @@
   "devDependencies": {
     "@types/lodash": "^4.14.165"
   },
-  "resolutions": {
-  },
+  "resolutions": {},
   "files": [
     "lib"
   ],

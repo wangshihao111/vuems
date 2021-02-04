@@ -1,6 +1,6 @@
 {
   "name": "@vuems/builder",
-  "version": "0.1.0",
+  "version": "0.0.1-alpha.0",
   "main": "index.js",
   "license": "MIT",
   "private": false,
@@ -16,7 +16,6 @@
     "vue-router": "^3.2.0",
     "vuex": "^3.4.0"
   },
-  "dependencies": {},
   "devDependencies": {
     "@types/jsonp": "^0.2.0"
   },
